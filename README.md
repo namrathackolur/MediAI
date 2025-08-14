@@ -1,5 +1,5 @@
 # MediAI
-# 🩺 Medical Prescription App
+# 🩺 Medical Prescription Application
 
 A modern *AI-powered Medical Prescription Management Web App* built with *Next.js, **TypeScript, and **Tailwind CSS, integrated with **IBM Granite AI* for intelligent prescription analysis.  
 
