@@ -1,6 +1,4 @@
 # MediAI
-
-# MediAI
 # 🩺 Medical Prescription App
 
 A modern *AI-powered Medical Prescription Management Web App* built with *Next.js, **TypeScript, and **Tailwind CSS, integrated with **IBM Granite AI* for intelligent prescription analysis.  
@@ -14,10 +12,8 @@ This application helps doctors, pharmacists, and patients manage prescriptions, 
 - *📄 Prescription Upload & Analysis* – Upload prescription text for AI-based analysis.  
 - *💊 Drug Extraction (IBM Granite AI)* – Extracts drug names, dosage, and frequency with high accuracy.  
 - *⚠ Drug Interaction Checking (IBM Granite AI)* – Identifies possible harmful drug interactions.  
-- *📱 Responsive UI* – Optimized for mobile, tablet, and desktop devices.  
-- *🌗 Dark & Light Mode* – Theme switching support with next-themes.  
+- *📱 Responsive UI* – Optimized for mobile, tablet, and desktop devices.   
 - *✅ Form Validation* – Type-safe validation using react-hook-form + zod.  
-- *📊 Charts & Reports* – Visualize prescription and medical data with recharts.  
 
 ---
 
