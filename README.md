@@ -61,3 +61,8 @@ Screenshots:
 ![Alt text](https://github.com/namrathackolur/MediAI/blob/c7fe378244934d4ac2acb9df096f826a36398134/5.jpg)
 ![Alt text](https://github.com/namrathackolur/MediAI/blob/c7fe378244934d4ac2acb9df096f826a36398134/6.jpg)
 ![Alt text](https://github.com/namrathackolur/MediAI/blob/c7fe378244934d4ac2acb9df096f826a36398134/7.jpg)
+
+## 🎬 Demo Video
+
+[Click to watch the demo](https://github.com/namrathackolur/MediAI/blob/ea03c5c819f61462990de0adc9aacdf21c7fa657/v.mp4)
+
